@@ -14,7 +14,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	dto "github.com/prometheus/client_model/go"
 
-	"github.com/armon/go-metrics"
+	"github.com/Gys/go-metrics"
 	"github.com/prometheus/common/expfmt"
 )
 

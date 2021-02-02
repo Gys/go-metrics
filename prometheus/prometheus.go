@@ -11,7 +11,7 @@ import (
 
 	"regexp"
 
-	"github.com/armon/go-metrics"
+	"github.com/Gys/go-metrics"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/push"
 )
